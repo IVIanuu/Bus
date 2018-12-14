@@ -18,7 +18,7 @@ include(
     ":bus",
     ":bus-android",
     ":bus-coroutines",
-    ":bus-lifecycle",
+    ":bus-livedata",
     ":bus-rx",
     ":sample"
 )

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ivianuu.bus.lifecycle
+package com.ivianuu.bus.livedata
 
 import android.os.Looper
 import androidx.lifecycle.LiveData

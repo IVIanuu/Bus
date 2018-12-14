@@ -39,7 +39,7 @@ android {
 
 dependencies {
     api(project(":bus"))
-    api(Deps.archLifecycleExtensions)
+    api(Deps.androidxLifecycleExtensions)
 }
 
 val sourcesJar = task("sourcesJar", Jar::class) {

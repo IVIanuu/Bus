@@ -48,6 +48,6 @@ dependencies {
     implementation(project(":bus-android"))
     implementation(project(":bus-android"))
     implementation(project(":bus-coroutines"))
-    implementation(project(":bus-lifecycle"))
+    implementation(project(":bus-livedata"))
     implementation(project(":bus-rx"))
 }
